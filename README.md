@@ -1,3 +1,5 @@
+<img height="256" alt="prbpwadlinkbrewer3d" src="https://github.com/user-attachments/assets/7da66f15-ab89-4c84-9e3f-5c93cce1c3e0" />
+
 this is a shitty python script to generate xml shortcuts to PrBoom+ Wads for homebrew launcher
 
 # REQUIREMENTS
