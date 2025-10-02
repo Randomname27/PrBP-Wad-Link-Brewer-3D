@@ -4,13 +4,15 @@ this is a shitty python script to generate xml shortcuts to PrBoom+ Wads for hom
 3DS
 - [CFW (Custom Firmware)](https://3ds.hacks.guide/)
 - Homebrew Launcher
-- PrBoom+ in 3dsx format in the 3ds folder (get it on universal updater)
+- PrBoom+ in 3dsx format in the 3ds folder _(get it on Universal Updater)_
 
 PC
 - Python 3
 - Tkinter (Python)
 
 # HOW TO USE AND STUFF
+
+**_IT CREATES THE XML FILE IN THE SAME DIRECTORY AS THE MAIN.PY FILE_**
 
 **Ultimate Doom** - pick if the wad will use doom.wad
 
