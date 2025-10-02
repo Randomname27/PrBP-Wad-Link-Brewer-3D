@@ -3,8 +3,8 @@ this is a shitty python script to generate xml shortcuts to PrBoom+ Wads for hom
 # REQUIREMENTS
 3DS
 - [CFW (Custom Firmware)](https://3ds.hacks.guide/)
-- Homebrew Launcher
-- PrBoom+ in 3dsx format in the 3ds folder _(get it on Universal Updater)_
+- Homebrew Launcher 
+- [PrBoom+](https://gbatemp.net/threads/release-prboom-3ds-port-gpu-accelerated.636076/) in 3dsx format in the 3ds folder _(also on Universal Updater)_
 
 PC
 - Python 3
