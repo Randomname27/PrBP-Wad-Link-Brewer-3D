@@ -6,8 +6,8 @@ from tkinter import messagebox
 # Creating root Tkinter window 
 root = tk.Tk() 
 root.title("PrB+ Wad Link Brewer 3D")
-root.geometry("530x250")
-root.resizable(False, False)
+root.geometry("560x250")
+root.resizable(True, False)
 
 # Tkinter string variable 
 # able to store any string value
