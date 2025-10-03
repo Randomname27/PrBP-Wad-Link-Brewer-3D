@@ -2,7 +2,7 @@
 
 this is a shitty python script to generate xml shortcuts to PrBoom+ Wads for homebrew launcher
 
-# REQUIREMENTS
+# Requirements
 3DS
 - [CFW (Custom Firmware)](https://3ds.hacks.guide/)
 - Homebrew Launcher 
@@ -12,7 +12,7 @@ PC
 - Python 3
 - Tkinter (Python)
 
-# HOW TO USE AND STUFF
+# How to use and stuff
 
 **_IT CREATES THE XML FILE IN THE SAME DIRECTORY AS THE MAIN.PY FILE_**
 
