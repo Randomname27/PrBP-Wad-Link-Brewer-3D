@@ -33,10 +33,16 @@ _(EXAMPLE: DOOM 2 CRAZY WEAPONS WAD)_
 
 **Wad file** - this will be the wad file that you will use, the wad has to be in the 3ds directory (or a folder inside, if it is you will have to specify path **_OTHERWISE IT WILL LOOK IN ROOT OF /3ds_**
 
-_EXAMPLE: wads/mod.wad)_
+_EXAMPLE: mydoomwads/mod.wad_ <- *Will look in ***sdmc:/3ds/mydoomwads/mod.wad****
 
-**IWad Path** - what folder the iwad is located
+**IWad Path** - what folder the iwad *(doom.wad or doom2.wad)* is located
 
 **_(leave blank if in root of /3ds)_**
 
 *EXAMPLE: prboomiwads/*
+
+
+
+**This is an example of what it should look like when you're done**
+
+<img height="256" alt="prbpwadlinkbrewer3d" src="https://github.com/user-attachments/assets/ca2471bb-752f-4549-b94f-9db76f2ff49d" /> 
